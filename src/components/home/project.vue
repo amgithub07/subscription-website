@@ -6,7 +6,7 @@
                     <div>
                         <p class="project-title-desc mb-4">今天又不知道要去哪裡了嗎？</p>
                         <h2 class="sb-section-title-primary">
-                            <span class="d-block d-lg-inline">Vivre</span>給你意想不到生活風格提案
+                            <span class="d-block d-lg-inline">Amber</span>給你意想不到生活風格提案
                         </h2>
                         <btnPrimary :text="btnText" :isShowArrow="isShowArrow" class="mt-6 mt-lg-10" />
                     </div>

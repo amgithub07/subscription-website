@@ -3,7 +3,7 @@
         <div class="container">
             <div class="footer-wrap row">
                 <div class="col">
-                    <p class="footer-text py-5 py-lg-6 text-sb-primary-400 text-center">©Vivre 2024 All right Reserved
+                    <p class="footer-text py-5 py-lg-6 text-sb-primary-400 text-center">©Amber 2024 All right Reserved
                     </p>
                 </div>
             </div>

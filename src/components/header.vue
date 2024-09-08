@@ -2,8 +2,9 @@
     <nav class="navbar navbar-expand-lg navbar-light pb-1 py-lg-0">
         <div class="container sb-navbar-border">
             <a id="navbarBrand" class="navbar-brand me-lg-10" href="#">
-                <img src="../assets/images/logo-lg.svg" class="d-none d-lg-block" alt="logo">
-                <img src="../assets/images/logo-sm.svg" class="d-lg-none" alt="logo">
+                <h1>Amber</h1>
+                <!-- <img src="../assets/images/logo-lg.svg" class="d-none d-lg-block" alt="logo">
+                <img src="../assets/images/logo-sm.svg" class="d-lg-none" alt="logo"> -->
             </a>
             <button id="mobileMenuBtn" class="sb-navbar-toggler navbar-toggler border-0 p-3 ms-auto shadow-none"
                 type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
